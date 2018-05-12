@@ -1,0 +1,31 @@
+_repo: Every-Man-His-Own-University_36955
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36955-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Conwell, Russell H.
+    alias: Conwell, Russell Herman
+    birthdate: 1843
+    deathdate: 1925
+    gutenberg_agent_id: '203'
+    url: http://www.gutenberg.org/2009/agents/203
+    wikipedia: http://en.wikipedia.org/wiki/Russell_Conwell
+description: ''
+gutenberg_issued: '2011-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36955'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LC'
+- !lcsh 'Success'
+- !lcsh 'Self-culture'
+tableOfContents: Every man's university -- Animals and "the least things" -- The bottom
+  rung -- Home reading -- Thoughtfulness -- Instincts and individuality.
+title: Every Man His Own University
+url: http://www.gutenberg.org/ebooks/36955
